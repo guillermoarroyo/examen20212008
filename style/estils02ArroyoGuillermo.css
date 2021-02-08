@@ -1,0 +1,7 @@
+.elementVisibleGAB{
+    display: flex;
+}
+
+.elementOcultGAB{
+    display: none;
+}
