@@ -245,6 +245,11 @@ input[type=text]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 
 }
 
+.seguentGAB{
+  position: absolute;
+  left: 65%;
+}
+
 /* -- Definició d'atributs que tindran elements button en concret. */
 button.boto {
   overflow: visible;
